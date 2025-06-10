@@ -15,4 +15,4 @@ bases:
 
 parts:
   charm:
-    charm-python-packages: [setuptools]
+    charm-python-packages: [setuptools>80.0]
